@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Image Example</title>
+</head>
+<body>
+  <h1>My Favorite Picture</h1>
+
+  <!-- Image tag -->
+  <img src="https://via.placeholder.com/300" alt="Sample image" width="300" height="200">
+
+  <p>This is an image displayed using the <code>&lt;img&gt;</code> tag.</p>
+</body>
+</html>
